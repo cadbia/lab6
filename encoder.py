@@ -1,3 +1,6 @@
+def decoder():
+    pass
+
 def encoder(password):
     # Initialize an empty string to store the encoded password
     encoded = ''
